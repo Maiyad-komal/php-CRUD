@@ -16,3 +16,4 @@ if ($row > 0)
     return header('Location: ./index.php');
 else
     echo "failed to insert data ";
+    ?>
